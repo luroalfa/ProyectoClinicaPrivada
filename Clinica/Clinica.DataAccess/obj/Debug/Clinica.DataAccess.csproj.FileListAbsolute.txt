@@ -1,0 +1,10 @@
+C:\Users\Luis\source\repos\Clinica\Clinica.DataAccess\bin\Debug\Clinica.DataAccess.dll.config
+C:\Users\Luis\source\repos\Clinica\Clinica.DataAccess\bin\Debug\Clinica.DataAccess.dll
+C:\Users\Luis\source\repos\Clinica\Clinica.DataAccess\bin\Debug\Clinica.DataAccess.pdb
+C:\Users\Luis\source\repos\Clinica\Clinica.DataAccess\bin\Debug\Clinica.Models.dll
+C:\Users\Luis\source\repos\Clinica\Clinica.DataAccess\bin\Debug\Clinica.Models.pdb
+C:\Users\Luis\source\repos\Clinica\Clinica.DataAccess\obj\Debug\Clinica.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\Clinica\Clinica.DataAccess\obj\Debug\Clinica.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Clinica\Clinica.DataAccess\obj\Debug\Clinica.DataAccess.csproj.CopyComplete
+C:\Users\Luis\source\repos\Clinica\Clinica.DataAccess\obj\Debug\Clinica.DataAccess.dll
+C:\Users\Luis\source\repos\Clinica\Clinica.DataAccess\obj\Debug\Clinica.DataAccess.pdb

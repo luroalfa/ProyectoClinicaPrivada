@@ -1,0 +1,12 @@
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\bin\Debug\Clinica.Business.dll
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\bin\Debug\Clinica.Business.pdb
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\bin\Debug\Clinica.DataAccess.dll
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\bin\Debug\Clinica.Models.dll
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\bin\Debug\Clinica.DataAccess.pdb
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\bin\Debug\Clinica.DataAccess.dll.config
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\bin\Debug\Clinica.Models.pdb
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\obj\Debug\Clinica.Business.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\obj\Debug\Clinica.Business.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\obj\Debug\Clinica.Business.csproj.CopyComplete
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\obj\Debug\Clinica.Business.dll
+C:\Users\Luis\source\repos\Clinica\Clinica.Business\obj\Debug\Clinica.Business.pdb

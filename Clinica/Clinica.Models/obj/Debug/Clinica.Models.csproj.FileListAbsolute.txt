@@ -1,0 +1,6 @@
+C:\Users\Luis\source\repos\Clinica\Clinica.Models\bin\Debug\Clinica.Models.dll
+C:\Users\Luis\source\repos\Clinica\Clinica.Models\bin\Debug\Clinica.Models.pdb
+C:\Users\Luis\source\repos\Clinica\Clinica.Models\obj\Debug\Clinica.Models.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\Clinica\Clinica.Models\obj\Debug\Clinica.Models.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Clinica\Clinica.Models\obj\Debug\Clinica.Models.dll
+C:\Users\Luis\source\repos\Clinica\Clinica.Models\obj\Debug\Clinica.Models.pdb
